@@ -509,7 +509,7 @@
        {
         "Ref": "mywsapi32E6CE11"
        },
-       "/*/sendmessage"
+       "/*/*sendmessage"
       ]
      ]
     }
